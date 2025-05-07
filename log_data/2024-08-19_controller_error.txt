@@ -1,0 +1,36 @@
+2024-08-19 11:47:14 :＋実行クラス名:setting_load
+2024-08-19 11:47:14 :("'NoneType' object does not support item assignment",)
+2024-08-19 11:47:14 :＋実行クラス名:setting_load
+2024-08-19 11:47:14 :("'NoneType' object has no attribute '__getitem__'",)
+2024-08-19 11:47:15 :＋実行クラス名:setting_load
+2024-08-19 11:47:15 :("'NoneType' object does not support item assignment",)
+2024-08-19 11:47:15 :＋実行クラス名:setting_load
+2024-08-19 11:47:15 :("'NoneType' object has no attribute '__getitem__'",)
+2024-08-19 11:47:16 :＋実行クラス名:setting_load
+2024-08-19 11:47:16 :("'NoneType' object does not support item assignment",)
+2024-08-19 11:47:16 :＋実行クラス名:setting_load
+2024-08-19 11:47:16 :("'NoneType' object has no attribute '__getitem__'",)
+2024-08-19 11:47:17 :＋実行クラス名:setting_load
+2024-08-19 11:47:17 :("'NoneType' object does not support item assignment",)
+2024-08-19 11:47:17 :＋実行クラス名:setting_load
+2024-08-19 11:47:17 :("'NoneType' object has no attribute '__getitem__'",)
+2024-08-19 11:47:18 :＋実行クラス名:setting_load
+2024-08-19 11:47:18 :("'NoneType' object does not support item assignment",)
+2024-08-19 11:47:18 :＋実行クラス名:setting_load
+2024-08-19 11:47:18 :("'NoneType' object has no attribute '__getitem__'",)
+2024-08-19 11:47:19 :＋実行クラス名:setting_load
+2024-08-19 11:47:19 :("'NoneType' object does not support item assignment",)
+2024-08-19 11:47:19 :＋実行クラス名:setting_load
+2024-08-19 11:47:19 :("'NoneType' object has no attribute '__getitem__'",)
+2024-08-19 11:53:48 :実行ファイル名:setting_load
+2024-08-19 11:53:48 :('invalid syntax', ('/var/www/html/script/module_test/app_test/setting_load.py', 42, 18, '\t\tif "time" in not self.private_values:\n'))
+2024-08-19 11:53:48 :実行ファイル名:setting_load
+2024-08-19 11:53:48 :('invalid syntax', ('/var/www/html/script/module_test/app_test/setting_load.py', 42, 18, '\t\tif "time" in not self.private_values:\n'))
+2024-08-19 11:53:49 :実行ファイル名:setting_load
+2024-08-19 11:53:49 :('invalid syntax', ('/var/www/html/script/module_test/app_test/setting_load.py', 42, 18, '\t\tif "time" in not self.private_values:\n'))
+2024-08-19 11:53:49 :実行ファイル名:setting_load
+2024-08-19 11:53:49 :('invalid syntax', ('/var/www/html/script/module_test/app_test/setting_load.py', 42, 18, '\t\tif "time" in not self.private_values:\n'))
+2024-08-19 11:53:50 :実行ファイル名:setting_load
+2024-08-19 11:53:50 :('invalid syntax', ('/var/www/html/script/module_test/app_test/setting_load.py', 42, 18, '\t\tif "time" in not self.private_values:\n'))
+2024-08-19 11:53:50 :実行ファイル名:setting_load
+2024-08-19 11:53:50 :('invalid syntax', ('/var/www/html/script/module_test/app_test/setting_load.py', 42, 18, '\t\tif "time" in not self.private_values:\n'))
